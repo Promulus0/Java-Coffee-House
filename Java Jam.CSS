@@ -1,0 +1,13 @@
+body     { background-color: #FCEBB6; 
+    color: #221811;
+    font-family: Arial, Verdana, sans-serif; }
+h1       { background-color: #D2B48C; 
+    color: #e6e6fa; 
+    line-height: 200%;
+    font-family: Georgia, "Times New Roman", serif;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #CCCCCC; 
+    text-align: center;  }
+ footer {color: #D2B48C;
+    font-size: .60em;
+    font-style: italic; }
